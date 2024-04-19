@@ -21,7 +21,7 @@
 .records td:last-child{
     padding: 0;
     text-align: center;
-    min-width: 14opx;
+    min-width: 140px;
 }
 
 .records th:hover{
